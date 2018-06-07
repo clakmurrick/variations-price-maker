@@ -13,11 +13,10 @@ if let input = readLine() {
 
 var totalVariations:String
 for _ in 0..<numOfAttributes {
-	let input:Int = Int(readLine())!
-
-	if let input = readLine() {
-  	if let numberOfAttributes = Int(input)
-	}		
+	
+if let input = readLine() {
+  if let totalVariations = Int(input)
+}		
 	
 	totalVariations *= input
 }
