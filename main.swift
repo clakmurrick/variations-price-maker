@@ -7,6 +7,7 @@ print("Enter number of attributes")
 if let input = readLine() {
   if let numOfAttributes = Int(input) {}
 }
+print(numOfAttributes)
 
 var totalVariations:String
 for i in 0..<numOfAttributes {
